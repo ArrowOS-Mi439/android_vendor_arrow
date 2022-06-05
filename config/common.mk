@@ -25,6 +25,9 @@ PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += \
 
 PRODUCT_PACKAGES += \
     NetworkStackOverlay
+    
+PRODUCT_PACKAGES += \
+    SettingsGoogleProviderOverlay \
 
 # Dex preopt
 PRODUCT_DEXPREOPT_SPEED_APPS += \
