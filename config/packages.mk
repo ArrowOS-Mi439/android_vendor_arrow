@@ -16,8 +16,6 @@
 # Required packages
 PRODUCT_PACKAGES += \
     BluetoothExt \
-    SimpleCalendar \
-    DuckDuckGo \
     ExactCalculator \
     LatinIME \
     Launcher3QuickStep \
